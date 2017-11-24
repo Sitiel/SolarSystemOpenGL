@@ -1,7 +1,7 @@
 # Solar System
 
 <img align="right" width="120" height="178"
-     title="Solar system logo" src="./logo.png">
+     title="Solar system icon" src="./icon.png">
 
 Example of a solar system simulated using openGL with transform and FPS camera
 
